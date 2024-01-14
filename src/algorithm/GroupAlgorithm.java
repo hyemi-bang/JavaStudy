@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] 컬렉션 형태의 데이터를 특정 키 값으로 그룹화
 

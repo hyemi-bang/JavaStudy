@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] n개의 정수 중 13 배수의 개수
 

@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] 2개의 정수 배열 합치기, 2개의 배열은 오름차순으로 정렬되어 있다고 가정
 

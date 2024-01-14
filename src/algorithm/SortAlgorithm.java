@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] 무작위 데이터를 순서대로 정렬 (오름차순or 내림차순)
 

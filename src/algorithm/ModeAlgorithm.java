@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?]주어진 데이터에서 가장 많이 나타난 중복된 값
 

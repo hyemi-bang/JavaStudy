@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 //[?] near  , 원본 데이터중 대상 데이터와 가장 가까운 값을 구하기
 
 /**

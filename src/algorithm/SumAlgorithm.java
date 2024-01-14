@@ -1,4 +1,4 @@
-package Algorithm.SumAlgorithm;
+package algorithm;
 //[?] n명의 국어점수 중 80점 이상인 점수의 합계
 /**
  * 합계 알고리즘(Sum Algorithm) : 주어진 조건과 범위에 해당하는 자료 합계

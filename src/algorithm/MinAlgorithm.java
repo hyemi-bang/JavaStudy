@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] 주어진 데이터 중 가장 작은 '짝수' 값 구하기
 

@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] 주어진 데이터 중 가장 큰 값
 //* MAX 최댓값 알고리즘, : (주어진 범위+ 주어진 조건) 자료들의 가장 큰 값

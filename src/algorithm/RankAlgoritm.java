@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 //[?] 지정범위 데이터의 순위를 구하는 로직
 
