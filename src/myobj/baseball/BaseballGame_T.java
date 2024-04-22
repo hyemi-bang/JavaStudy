@@ -33,9 +33,9 @@ public class BaseballGame_T {
 	
 	public void play() { // 만들어진 게임을 플레이 할 적에 기회가 9번 주어진다
 		while (chance > 0) { 
-			if (DEBUG_MODE) { // 디버그모드 =>> boolean 타입
-			System.out.println(Arrays.toString(answers));
-			}
+			//if (DEBUG_MODE) { // 디버그모드 =>> boolean 타입
+			//System.out.println(Arrays.toString(answers));
+			//}
 			
 			System.out.println("남은기회 : " + chance);
 			System.out.print(">> ");

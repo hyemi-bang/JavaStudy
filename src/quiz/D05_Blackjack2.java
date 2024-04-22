@@ -6,7 +6,7 @@ import myobj.blackjack2.Card;
 import myobj.blackjack2.CardDeck;
 import myobj.blackjack2.Player;
 
-public class D05_Blackjack_T {
+public class D05_Blackjack2 {
 
 	public static void main(String[] args) {
 		CardDeck deck = Card.getDeck(3);

@@ -64,8 +64,8 @@ public class C17_Omok {
 		}
 		omok1.print();
 		
-//
-//		// 핀 그리는 방법
+
+		// 핀 그리는 방법
 //		for (int i = 0; i < 15; ++i) {
 //			for (int j = 0; j < 15; ++j) {
 //				System.out.print("┿ ");
@@ -123,7 +123,7 @@ public class C17_Omok {
 //			}
 //			System.out.println();
 //		}
-		
+//		
 		
 		
 	}

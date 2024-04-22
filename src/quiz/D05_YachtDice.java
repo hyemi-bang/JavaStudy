@@ -29,8 +29,6 @@ public class D05_YachtDice {
 //		System.out.println(dice2); 
 		// myobj.Yacht.YachtDice_T@26f0a63f => [2, 6, 3, 2, 1]
 		// 주소값이 나오니까 , toString()을 해야겠다~
-//		dice2.showAvailableRanks();// => 각 주사위 개수 : [1, 2, 1, 0, 0, 1]
-		
 		for(int i = 0; i < 20 ; ++i) {
 			YachtDice_T dice1 = new YachtDice_T();
 			
