@@ -1,4 +1,4 @@
-package baekjoon_ac;
+package coding_quiz;
 
 public class StrToInt {
     public int getStrToInt(String str) {

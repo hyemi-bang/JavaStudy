@@ -1,4 +1,4 @@
-package baekjoon_ac;
+package coding_quiz;
 
 import java.util.Scanner;
 
