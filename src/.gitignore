@@ -107,3 +107,16 @@
 /Water.class
 /Whale.class
 /CalendarExample.class
+/PeachNameComparator.class
+/PeachRateComparator.class
+
+.classpath
+.classpath - bin
+.classpath - src
+.gitignore - bin
+.gitignore
+.gitignore - bin/baekjoon_ac
+.gitignore - bin/quiz
+.gitignore - src/algorithm
+.gitignore - src/baekjoon_ac
+.gitignore - src/quiz
