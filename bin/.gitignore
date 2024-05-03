@@ -120,5 +120,3 @@
 .gitignore - src/algorithm
 .gitignore - src/baekjoon_ac
 .gitignore - src/quiz
-/myobj/
-/quiz/
