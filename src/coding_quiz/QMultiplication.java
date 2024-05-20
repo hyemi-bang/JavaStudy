@@ -35,8 +35,8 @@ public class Multiplication {
 		int[][] dots1 = { { 1, 1 }, { 2, 1 }, { 2, 2 }, { 1, 2 } };
 		int[][] dots2 = { { -1, -1 }, { 1, 1 }, { 1, -1 }, { -1, 1 } };
 
-		System.out.println(solution(dots1)); // Output: 1
-		System.out.println(solution(dots2)); // Output: 4
+		System.out.println(solution(dots1));  // 1
+		System.out.println(solution(dots2)); // 4
 	}
 
 }
