@@ -2,7 +2,7 @@ package coding_quiz;
 
 import java.util.Arrays;
 
-public class Multiplication {
+public class QMultiplication {
 
 	public static int solution(int[][] dots) {
 
